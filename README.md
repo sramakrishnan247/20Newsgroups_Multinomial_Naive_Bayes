@@ -5,4 +5,5 @@ The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup doc
 The dataset used is from here: https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups.
 
 This notebook(MNBayesClassifier.ipynb) can be run end to end by using Google Colab.
+
 This was done as a part of COMS 573 Machine Learning at Iowa State University.
